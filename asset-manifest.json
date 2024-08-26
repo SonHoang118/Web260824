@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Web260824/static/css/main.a000c7f9.css",
+    "main.js": "/Web260824/static/js/main.30c1476f.js",
+    "static/media/bgf.jpg": "/Web260824/static/media/bgf.cb1d17a1d9f5c3a3072a.jpg",
+    "static/media/bg1.jpg": "/Web260824/static/media/bg1.40fa2ac20e4d12341711.jpg",
+    "static/media/zalo_icon.png": "/Web260824/static/media/zalo_icon.9c589b6fb01ae768c825.png",
+    "static/media/logo.jpg": "/Web260824/static/media/logo.5b4392436a675cc73a18.jpg",
+    "static/media/world-wide-web.png": "/Web260824/static/media/world-wide-web.10a2be69190b69626a3e.png",
+    "static/media/wrench.png": "/Web260824/static/media/wrench.cbcd63f20f6e67559cf6.png",
+    "static/media/pin.png": "/Web260824/static/media/pin.8210970acff9062a268b.png",
+    "static/media/phone_icon.png": "/Web260824/static/media/phone_icon.887ce9a51e6d11f18e52.png",
+    "static/media/export.png": "/Web260824/static/media/export.6cd13c92f2165bde1619.png",
+    "static/media/mail.png": "/Web260824/static/media/mail.2c378c9ee25927123f7d.png",
+    "static/media/sketch.png": "/Web260824/static/media/sketch.d7cb2a5b9a87f3884707.png",
+    "static/media/messenger_icon.png": "/Web260824/static/media/messenger_icon.7f37634b63c68b71abc9.png",
+    "static/media/livingroom.png": "/Web260824/static/media/livingroom.3fa553061e27bb4b8b5e.png",
+    "static/media/email_icon.png": "/Web260824/static/media/email_icon.4501d9230a0cc67504c3.png",
+    "static/media/slick.svg": "/Web260824/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Web260824/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Web260824/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Web260824/index.html",
+    "static/media/slick.woff": "/Web260824/static/media/slick.295183786cd8a1389865.woff",
+    "main.a000c7f9.css.map": "/Web260824/static/css/main.a000c7f9.css.map",
+    "main.30c1476f.js.map": "/Web260824/static/js/main.30c1476f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a000c7f9.css",
+    "static/js/main.30c1476f.js"
+  ]
+}
