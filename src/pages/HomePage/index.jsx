@@ -48,7 +48,7 @@ const HomePage = () => {
             />
 
             <div className='company'>
-                <span className='service'>Công ty <span> TNHH THIẾT KẾ & THI CÔNG NỘI THẤT ONG</span></span><b>Xin chào</b>
+                <span className='service'>DHS - Thiết kế và thi công kiến trúc</span><b>Xin chào</b>
             </div>
 
             <div id='about'></div>
